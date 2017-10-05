@@ -1,0 +1,7 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\Prime Checker\bin\Debug\Prime Checker.exe.config
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\Prime Checker\bin\Debug\Prime Checker.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\Prime Checker\bin\Debug\Prime Checker.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\Prime Checker\obj\Debug\Prime Checker.csprojResolveAssemblyReference.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\Prime Checker\obj\Debug\Prime Checker.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\Prime Checker\obj\Debug\Prime Checker.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\Prime Checker\obj\Debug\Prime Checker.pdb

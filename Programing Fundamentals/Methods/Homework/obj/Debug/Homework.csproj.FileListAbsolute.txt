@@ -1,0 +1,7 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\Homework\bin\Debug\Homework.exe.config
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\Homework\bin\Debug\Homework.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\Homework\bin\Debug\Homework.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\Homework\obj\Debug\Homework.csprojResolveAssemblyReference.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\Homework\obj\Debug\Homework.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\Homework\obj\Debug\Homework.pdb

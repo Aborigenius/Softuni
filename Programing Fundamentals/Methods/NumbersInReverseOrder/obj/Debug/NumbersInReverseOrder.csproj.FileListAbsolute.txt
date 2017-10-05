@@ -1,0 +1,6 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\NumbersInReverseOrder\bin\Debug\NumbersInReverseOrder.exe.config
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\NumbersInReverseOrder\bin\Debug\NumbersInReverseOrder.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\NumbersInReverseOrder\bin\Debug\NumbersInReverseOrder.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\NumbersInReverseOrder\obj\Debug\NumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\NumbersInReverseOrder\obj\Debug\NumbersInReverseOrder.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\NumbersInReverseOrder\obj\Debug\NumbersInReverseOrder.pdb

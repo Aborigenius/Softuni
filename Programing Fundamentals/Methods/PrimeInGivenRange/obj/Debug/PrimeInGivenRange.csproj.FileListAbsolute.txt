@@ -1,0 +1,7 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\PrimeInGivenRange\bin\Debug\PrimeInGivenRange.exe.config
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\PrimeInGivenRange\bin\Debug\PrimeInGivenRange.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\PrimeInGivenRange\bin\Debug\PrimeInGivenRange.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\PrimeInGivenRange\obj\Debug\PrimeInGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\PrimeInGivenRange\obj\Debug\PrimeInGivenRange.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\PrimeInGivenRange\obj\Debug\PrimeInGivenRange.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\PrimeInGivenRange\obj\Debug\PrimeInGivenRange.pdb

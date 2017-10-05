@@ -1,0 +1,6 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\EnglishNameOfLastDigit\bin\Debug\EnglishNameOfLastDigit.exe.config
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\EnglishNameOfLastDigit\bin\Debug\EnglishNameOfLastDigit.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\EnglishNameOfLastDigit\bin\Debug\EnglishNameOfLastDigit.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\EnglishNameOfLastDigit\obj\Debug\EnglishNameOfLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\EnglishNameOfLastDigit\obj\Debug\EnglishNameOfLastDigit.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Methods\EnglishNameOfLastDigit\obj\Debug\EnglishNameOfLastDigit.pdb
