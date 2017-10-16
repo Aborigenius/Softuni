@@ -1,0 +1,6 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\ArraysExercise\ReverseArray\bin\Debug\ReverseArray.exe.config
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\ArraysExercise\ReverseArray\bin\Debug\ReverseArray.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\ArraysExercise\ReverseArray\bin\Debug\ReverseArray.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\ArraysExercise\ReverseArray\obj\Debug\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\ArraysExercise\ReverseArray\obj\Debug\ReverseArray.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\ArraysExercise\ReverseArray\obj\Debug\ReverseArray.pdb

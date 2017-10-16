@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysExercise", "ArraysExercise\ArraysExercise.csproj", "{2046AEC1-DCFF-485C-AED2-DB5D6784E4CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArray", "ReverseArray\ReverseArray.csproj", "{ED6AD601-43A0-4E71-B3B3-6F959C6F30F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2046AEC1-DCFF-485C-AED2-DB5D6784E4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2046AEC1-DCFF-485C-AED2-DB5D6784E4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2046AEC1-DCFF-485C-AED2-DB5D6784E4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2046AEC1-DCFF-485C-AED2-DB5D6784E4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED6AD601-43A0-4E71-B3B3-6F959C6F30F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6AD601-43A0-4E71-B3B3-6F959C6F30F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6AD601-43A0-4E71-B3B3-6F959C6F30F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6AD601-43A0-4E71-B3B3-6F959C6F30F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9755CE9-0C33-4E64-94CA-06F6E6A6284B}
+	EndGlobalSection
+EndGlobal
