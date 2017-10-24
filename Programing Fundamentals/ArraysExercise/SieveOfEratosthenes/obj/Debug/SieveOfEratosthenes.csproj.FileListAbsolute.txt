@@ -1,0 +1,7 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\Programing Fundamentals\ArraysExercise\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe.config
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\Programing Fundamentals\ArraysExercise\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\Programing Fundamentals\ArraysExercise\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\Programing Fundamentals\ArraysExercise\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\Programing Fundamentals\ArraysExercise\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\Programing Fundamentals\ArraysExercise\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\Programing Fundamentals\ArraysExercise\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.pdb
