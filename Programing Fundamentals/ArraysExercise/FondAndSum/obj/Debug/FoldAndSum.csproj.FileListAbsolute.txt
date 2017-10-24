@@ -1,0 +1,7 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\Programing Fundamentals\ArraysExercise\FondAndSum\bin\Debug\FondAndSum.exe.config
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\Programing Fundamentals\ArraysExercise\FondAndSum\bin\Debug\FondAndSum.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\Programing Fundamentals\ArraysExercise\FondAndSum\bin\Debug\FondAndSum.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\Programing Fundamentals\ArraysExercise\FondAndSum\obj\Debug\FoldAndSum.csprojResolveAssemblyReference.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\Programing Fundamentals\ArraysExercise\FondAndSum\obj\Debug\FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\Programing Fundamentals\ArraysExercise\FondAndSum\obj\Debug\FondAndSum.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\Programing Fundamentals\ArraysExercise\FondAndSum\obj\Debug\FondAndSum.pdb
