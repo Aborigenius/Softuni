@@ -24,13 +24,10 @@ namespace SieveOfEratosthenes
                     continue;
                 }
             }
-
             foreach (var n in result)
             {
                 Console.Write(n +  " ");
             }
-  
-
         }
 
         public static bool IsPrime(int endNumber)
