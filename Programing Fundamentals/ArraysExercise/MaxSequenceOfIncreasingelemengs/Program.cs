@@ -12,7 +12,7 @@ namespace MaxSequenceOfIncreasingElements
         {
             int [] inputArray = Console.ReadLine().Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
             List<int> result = new List<int>();
-            int sequnceCount = 0;
+            int sequenceCount = 0;
             int current = 0;
             int next = 1;
 
@@ -23,7 +23,7 @@ namespace MaxSequenceOfIncreasingElements
                 {
                     Console.WriteLine($"Current: {inputArray[current]}");
                     Console.WriteLine($"Next: {inputArray[next]}");
-                    sequnceCount++;
+                    sequenceCount++;
                     if (!result.Contains(inputArray[current]))
                     {
                         result.Add(inputArray[current]);
@@ -33,7 +33,7 @@ namespace MaxSequenceOfIncreasingElements
                 }
                 else
                 {
-                    sequnceCount = 0;
+                    sequenceCount = 0;
                 }
                 current++;
                 next++;
