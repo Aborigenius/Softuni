@@ -4,16 +4,17 @@ keyValue([
 ]);
 
 function keyValue(input) {
-    var dict = [];
-    for (let p of input) {
-        let obj = JSON.parse(p);
-        dict.push(obj);
-    }
-    for (let student of dict) {
-        for (let str of Object.keys(student)) {
-            console.log(`${str.replace(/\w\S*/g, function(txt)
-                 {return txt.charAt(0).toUpperCase() + txt.substr(1)
-                    .toLowerCase(); })}: ${student[str]}`)
+    let dict = {};
+    for (let p=0; p < input.length; p++) {
+        let obj = input[p].split(" -> ");
+        let key = obj[0];
+        let value = obj[1];
+    
+        if (key === "age" || key === "grade"){
+            value = Number(value);
         }
+        dict[key] = value;
     }
+let json = JSON.stringify(dict);
+console.log(json);
 }
