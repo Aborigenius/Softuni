@@ -1,0 +1,120 @@
+C:\Users\Ivan\PhpstormProjects\untitled2>php bin/console doctrine:database:create
+Created database `todolist` for connection named default
+
+C:\Users\Ivan\PhpstormProjects\untitled2>
+C:\Users\Ivan\PhpstormProjects\untitled2>php bin/console doctrine:generate:entity
+
+
+  Welcome to the Doctrine2 entity generator
+
+
+
+This command helps you generate Doctrine2 entities.
+
+First, you need to give the entity name you want to generate.
+You must use the shortcut notation like AcmeBlogBundle:Post.
+
+The Entity shortcut name: AppBunlde:Task
+Bundle "AppBunlde" does not exist.
+The Entity shortcut name: AppBundle:Task
+
+Determine the format to use for the mapping information.
+
+Configuration format (yml, xml, php, or annotation) [annotation]:
+
+Instead of starting with a blank entity, you can add some fields now.
+Note that the primary key will be added automatically (named id).
+
+Available types: array, simple_array, json_array, object,
+boolean, integer, smallint, bigint, string, text, datetime, datetimetz,
+date, time, decimal, float, binary, blob, guid.
+
+New field name (press <return> to stop adding fields): title
+Field type [string]:
+Field length [255]:
+Is nullable [false]:
+Unique [false]:
+
+New field name (press <return> to stop adding fields): comments
+Field type [string]: text
+Is nullable [false]:
+Unique [false]:
+
+New field name (press <return> to stop adding fields):
+
+
+  Entity generation
+
+
+  created .\src\AppBundle/Entity/
+  created .\src\AppBundle/Entity/Task.php
+> Generating entity class C:\Users\Ivan\PhpstormProjects\untitled2\src\AppBundle\Entity\Task.php: OK!
+> Generating repository class C:\Users\Ivan\PhpstormProjects\untitled2\src\AppBundle\Repository\TaskRepository.php: OK!
+
+
+  Everything is OK! Now get to work :).
+
+
+
+C:\Users\Ivan\PhpstormProjects\untitled2>php bin/console doctrine:schema:update --force
+Updating database schema...
+Database schema updated successfully! "1" query was executed
+
+C:\Users\Ivan\PhpstormProjects\untitled2>php bin/console doctrine:generate:crud
+
+
+  Welcome to the Doctrine2 CRUD generator
+
+
+
+This command helps you generate CRUD controllers and templates.
+
+First, give the name of the existing entity for which you want to generate a CRUD
+(use the shortcut notation like AcmeBlogBundle:Post)
+
+The Entity shortcut name: AppBundle:Task
+
+By default, the generator creates two actions: list and show.
+You can also ask it to generate "write" actions: new, update, and delete.
+
+Do you want to generate the "write" actions [no]? yes
+
+Determine the format to use for the generated CRUD.
+
+Configuration format (yml, xml, php, or annotation) [annotation]:
+
+Determine the routes prefix (all the routes will be "mounted" under this
+prefix: /prefix/, /prefix/new, ...).
+
+Routes prefix [/task]:
+
+
+  Summary before generation
+
+
+You are going to generate a CRUD controller for "AppBundle:Task"
+using the "annotation" format.
+
+Do you confirm generation [yes]?
+
+
+  CRUD generation
+
+
+  created .\src\AppBundle/Controller//TaskController.php
+  created .\app/Resources/views/task/
+  created .\app/Resources/views/task/index.html.twig
+  created .\app/Resources/views/task/show.html.twig
+  created .\app/Resources/views/task/new.html.twig
+  created .\app/Resources/views/task/edit.html.twig
+  created .\src\AppBundle/Tests/Controller/
+  created .\src\AppBundle/Tests/Controller//TaskControllerTest.php
+Generating the CRUD code: OK
+  created .\src\AppBundle/Form/
+  created .\src\AppBundle/Form/TaskType.php
+Generating the Form code: OK
+Updating the routing: OK
+
+php bin/console server:run
+
+
