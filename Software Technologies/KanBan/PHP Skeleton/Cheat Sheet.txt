@@ -1,0 +1,18 @@
+If Necessary
+
+php .\composer.phar install
+
+Delete Task.php and TaskRepository.php
+
+Generate New Entity
+
+php bin/console doctrine:generate:entity
+
+Create Database
+
+ php bin/console doctrine:database:create
+
+Update The Schema
+
+php bin/console doctrine:schema:update --force
+
