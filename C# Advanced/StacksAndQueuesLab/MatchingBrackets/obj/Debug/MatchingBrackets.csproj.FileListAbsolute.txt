@@ -1,0 +1,6 @@
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\MatchingBrackets\bin\Debug\MatchingBrackets.exe.config
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\MatchingBrackets\bin\Debug\MatchingBrackets.exe
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\MatchingBrackets\bin\Debug\MatchingBrackets.pdb
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\MatchingBrackets\obj\Debug\MatchingBrackets.csproj.CoreCompileInputs.cache
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\MatchingBrackets\obj\Debug\MatchingBrackets.exe
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\MatchingBrackets\obj\Debug\MatchingBrackets.pdb

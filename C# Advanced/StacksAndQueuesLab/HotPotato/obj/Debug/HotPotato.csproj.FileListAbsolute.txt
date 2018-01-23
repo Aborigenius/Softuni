@@ -1,0 +1,6 @@
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\HotPotato\bin\Debug\HotPotato.exe.config
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\HotPotato\bin\Debug\HotPotato.exe
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\HotPotato\bin\Debug\HotPotato.pdb
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\HotPotato\obj\Debug\HotPotato.csproj.CoreCompileInputs.cache
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\HotPotato\obj\Debug\HotPotato.exe
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\HotPotato\obj\Debug\HotPotato.pdb

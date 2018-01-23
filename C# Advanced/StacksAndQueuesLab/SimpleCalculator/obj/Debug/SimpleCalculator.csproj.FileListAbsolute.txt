@@ -1,0 +1,6 @@
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

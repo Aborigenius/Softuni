@@ -1,0 +1,7 @@
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\TrafficJam\bin\Debug\TrafficJam.exe.config
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\TrafficJam\bin\Debug\TrafficJam.exe
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\TrafficJam\bin\Debug\TrafficJam.pdb
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\TrafficJam\obj\Debug\TrafficJam.csprojResolveAssemblyReference.cache
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\TrafficJam\obj\Debug\TrafficJam.csproj.CoreCompileInputs.cache
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\TrafficJam\obj\Debug\TrafficJam.exe
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\TrafficJam\obj\Debug\TrafficJam.pdb

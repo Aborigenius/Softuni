@@ -1,0 +1,7 @@
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\StacksAndQueuesLesson\bin\Debug\StacksAndQueuesLesson.exe.config
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\StacksAndQueuesLesson\bin\Debug\StacksAndQueuesLesson.exe
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\StacksAndQueuesLesson\bin\Debug\StacksAndQueuesLesson.pdb
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\StacksAndQueuesLesson\obj\Debug\StacksAndQueuesLesson.csprojResolveAssemblyReference.cache
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\StacksAndQueuesLesson\obj\Debug\StacksAndQueuesLesson.csproj.CoreCompileInputs.cache
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\StacksAndQueuesLesson\obj\Debug\StacksAndQueuesLesson.exe
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\StacksAndQueuesLesson\obj\Debug\StacksAndQueuesLesson.pdb

@@ -1,0 +1,6 @@
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\ReverseString\bin\Debug\ReverseString.exe.config
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\ReverseString\bin\Debug\ReverseString.exe
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\ReverseString\bin\Debug\ReverseString.pdb
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\ReverseString\obj\Debug\ReverseString.exe
+c:\users\spiridiv\documents\visual studio 2017\Projects\StacksAndQueues\ReverseString\obj\Debug\ReverseString.pdb
