@@ -1,0 +1,7 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\ReverseNumsWithStack\bin\Debug\ReverseNumsWithStack.exe.config
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\ReverseNumsWithStack\bin\Debug\ReverseNumsWithStack.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\ReverseNumsWithStack\bin\Debug\ReverseNumsWithStack.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\ReverseNumsWithStack\obj\Debug\ReverseNumsWithStack.csprojResolveAssemblyReference.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\ReverseNumsWithStack\obj\Debug\ReverseNumsWithStack.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\ReverseNumsWithStack\obj\Debug\ReverseNumsWithStack.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\ReverseNumsWithStack\obj\Debug\ReverseNumsWithStack.pdb
