@@ -11,7 +11,7 @@ namespace Maximum_Element
         static void Main(string[] args)
         {
             Stack<int> stack = new Stack<int>();
-            string result = String.Empty;
+            var trackMax = new Stack<int>();
             int inputN = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < inputN; i++)
@@ -21,30 +21,35 @@ namespace Maximum_Element
                 {
                     case 1:
                         stack.Push(inputLines[1]);
+                        if (trackMax.Count == 0)
+                        {
+                            trackMax.Push(inputLines[1]);
+                        }
+                        else
+                        {
+                            if (trackMax.Peek() < inputLines[1])
+                            {
+                                trackMax.Push(inputLines[1]);
+                            }
+                            else
+                            {
+                                trackMax.Push(trackMax.Peek());
+                            }
+                        }
+                     
                         break;
                     case 2:
                         stack.Pop();
+                        trackMax.Pop();
                         break;
                     case 3:
-                        result += ($"{stack.Max()}{Environment.NewLine}");
+                        Console.WriteLine(trackMax.Peek());
                         break;
                     default:
                         break;
                 }
-                //if (inputLines[0] == 1)
-                //{
-                //    stack.Push(inputLines[1]);
-                //}
-                //if (inputLines[0] == 2)
-                //{
-                //    stack.Pop();
-                //}
-                //if (inputLines[0] == 3)
-                //{
-                //    result.Append($"{stack.Max()}{Environment.NewLine}");
-                //}
             }
-            Console.WriteLine(result);
+           // Console.WriteLine(result);
         }
     }
 }
