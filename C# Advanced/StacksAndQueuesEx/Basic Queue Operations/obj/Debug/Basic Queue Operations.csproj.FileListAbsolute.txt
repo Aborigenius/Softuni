@@ -1,0 +1,7 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Basic Queue Operations\bin\Debug\Basic Queue Operations.exe.config
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Basic Queue Operations\bin\Debug\Basic Queue Operations.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Basic Queue Operations\bin\Debug\Basic Queue Operations.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Basic Queue Operations\obj\Debug\Basic Queue Operations.csprojResolveAssemblyReference.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Basic Queue Operations\obj\Debug\Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Basic Queue Operations\obj\Debug\Basic Queue Operations.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Basic Queue Operations\obj\Debug\Basic Queue Operations.pdb
