@@ -1,0 +1,7 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Calculate Sequence With Queue\bin\Debug\Calculate Sequence With Queue.exe.config
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Calculate Sequence With Queue\bin\Debug\Calculate Sequence With Queue.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Calculate Sequence With Queue\bin\Debug\Calculate Sequence With Queue.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Calculate Sequence With Queue\obj\Debug\Calculate Sequence With Queue.csprojResolveAssemblyReference.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Calculate Sequence With Queue\obj\Debug\Calculate Sequence With Queue.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Calculate Sequence With Queue\obj\Debug\Calculate Sequence With Queue.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Calculate Sequence With Queue\obj\Debug\Calculate Sequence With Queue.pdb
