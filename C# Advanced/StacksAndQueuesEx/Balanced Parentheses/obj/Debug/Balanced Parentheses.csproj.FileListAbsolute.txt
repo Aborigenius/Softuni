@@ -1,0 +1,7 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Balanced Parentheses\bin\Debug\Balanced Parentheses.exe.config
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Balanced Parentheses\bin\Debug\Balanced Parentheses.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Balanced Parentheses\bin\Debug\Balanced Parentheses.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Balanced Parentheses\obj\Debug\Balanced Parentheses.csprojResolveAssemblyReference.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Balanced Parentheses\obj\Debug\Balanced Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Balanced Parentheses\obj\Debug\Balanced Parentheses.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Balanced Parentheses\obj\Debug\Balanced Parentheses.pdb

@@ -1,0 +1,7 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Stack Fibonacci\bin\Debug\Stack Fibonacci.exe.config
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Stack Fibonacci\bin\Debug\Stack Fibonacci.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Stack Fibonacci\bin\Debug\Stack Fibonacci.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Stack Fibonacci\obj\Debug\Stack Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Stack Fibonacci\obj\Debug\Stack Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Stack Fibonacci\obj\Debug\Stack Fibonacci.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Stack Fibonacci\obj\Debug\Stack Fibonacci.pdb
