@@ -1,0 +1,7 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Poisonous Plants\bin\Debug\Poisonous Plants.exe.config
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Poisonous Plants\bin\Debug\Poisonous Plants.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Poisonous Plants\bin\Debug\Poisonous Plants.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Poisonous Plants\obj\Debug\Poisonous Plants.csprojResolveAssemblyReference.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Poisonous Plants\obj\Debug\Poisonous Plants.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Poisonous Plants\obj\Debug\Poisonous Plants.exe
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\StacksAndQueuesEx\Poisonous Plants\obj\Debug\Poisonous Plants.pdb
