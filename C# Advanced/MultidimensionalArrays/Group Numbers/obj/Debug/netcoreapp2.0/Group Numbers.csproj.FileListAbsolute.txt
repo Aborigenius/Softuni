@@ -1,0 +1,11 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Group Numbers\bin\Debug\netcoreapp2.0\Group Numbers.deps.json
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Group Numbers\bin\Debug\netcoreapp2.0\Group Numbers.runtimeconfig.json
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Group Numbers\bin\Debug\netcoreapp2.0\Group Numbers.runtimeconfig.dev.json
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Group Numbers\bin\Debug\netcoreapp2.0\Group Numbers.dll
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Group Numbers\bin\Debug\netcoreapp2.0\Group Numbers.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Group Numbers\obj\Debug\netcoreapp2.0\Group Numbers.csprojResolveAssemblyReference.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Group Numbers\obj\Debug\netcoreapp2.0\Group Numbers.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Group Numbers\obj\Debug\netcoreapp2.0\Group Numbers.AssemblyInfoInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Group Numbers\obj\Debug\netcoreapp2.0\Group Numbers.AssemblyInfo.cs
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Group Numbers\obj\Debug\netcoreapp2.0\Group Numbers.dll
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Group Numbers\obj\Debug\netcoreapp2.0\Group Numbers.pdb

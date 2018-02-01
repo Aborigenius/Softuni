@@ -1,0 +1,11 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Matrix Of Palindromes\bin\Debug\netcoreapp2.0\Matrix Of Palindromes.deps.json
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Matrix Of Palindromes\bin\Debug\netcoreapp2.0\Matrix Of Palindromes.runtimeconfig.json
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Matrix Of Palindromes\bin\Debug\netcoreapp2.0\Matrix Of Palindromes.runtimeconfig.dev.json
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Matrix Of Palindromes\bin\Debug\netcoreapp2.0\Matrix Of Palindromes.dll
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Matrix Of Palindromes\bin\Debug\netcoreapp2.0\Matrix Of Palindromes.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Matrix Of Palindromes\obj\Debug\netcoreapp2.0\Matrix Of Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Matrix Of Palindromes\obj\Debug\netcoreapp2.0\Matrix Of Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Matrix Of Palindromes\obj\Debug\netcoreapp2.0\Matrix Of Palindromes.AssemblyInfoInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Matrix Of Palindromes\obj\Debug\netcoreapp2.0\Matrix Of Palindromes.AssemblyInfo.cs
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Matrix Of Palindromes\obj\Debug\netcoreapp2.0\Matrix Of Palindromes.dll
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Matrix Of Palindromes\obj\Debug\netcoreapp2.0\Matrix Of Palindromes.pdb

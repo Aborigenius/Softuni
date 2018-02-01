@@ -1,0 +1,11 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Pascal Triangle\bin\Debug\netcoreapp2.0\Pascal Triangle.deps.json
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Pascal Triangle\bin\Debug\netcoreapp2.0\Pascal Triangle.runtimeconfig.json
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Pascal Triangle\bin\Debug\netcoreapp2.0\Pascal Triangle.runtimeconfig.dev.json
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Pascal Triangle\bin\Debug\netcoreapp2.0\Pascal Triangle.dll
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Pascal Triangle\bin\Debug\netcoreapp2.0\Pascal Triangle.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Pascal Triangle\obj\Debug\netcoreapp2.0\Pascal Triangle.csprojResolveAssemblyReference.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Pascal Triangle\obj\Debug\netcoreapp2.0\Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Pascal Triangle\obj\Debug\netcoreapp2.0\Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Pascal Triangle\obj\Debug\netcoreapp2.0\Pascal Triangle.AssemblyInfo.cs
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Pascal Triangle\obj\Debug\netcoreapp2.0\Pascal Triangle.dll
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\MultidimensionalArrays\Pascal Triangle\obj\Debug\netcoreapp2.0\Pascal Triangle.pdb
