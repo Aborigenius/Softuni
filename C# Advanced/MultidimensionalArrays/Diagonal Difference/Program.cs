@@ -8,16 +8,16 @@ namespace Diagonal_Difference
         static void Main(string[] args)
         {
             //read matrix size
-            int matrixSize = int.Parse(Console.ReadLine());
+            long matrixSize = long.Parse(Console.ReadLine());
             //create matrix
-            int[,] matrix = new int[matrixSize,matrixSize];
+            long[,] matrix = new long[matrixSize,matrixSize];
 
             //read the input - N(matrixsize) lines
-            for (int rows = 0; rows < matrixSize; rows++)
+            for (long rows = 0; rows < matrixSize; rows++)
             {
-                var input = Console.ReadLine().Split(new string[] { " " }, StringSplitOptions.None).Select(int.Parse).ToArray();
+                var input = Console.ReadLine().Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries).Select(long.Parse).ToArray();
                 //add array values to the matrix
-                for (int cols = 0; cols < matrixSize; cols++)
+                for (long cols = 0; cols < matrixSize; cols++)
                 {
                     matrix[cols, rows] = input[cols];
                 }
@@ -27,7 +27,7 @@ namespace Diagonal_Difference
             long leftDiagonal = 0;
             long rightDiagonal = 0;
 
-            for (int cols = 0; cols < matrixSize; cols++)
+            for (long cols = 0; cols < matrixSize; cols++)
             {
                 leftDiagonal += matrix[cols,cols];
                 rightDiagonal += matrix[cols,matrixSize - cols -1];

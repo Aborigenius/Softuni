@@ -1,0 +1,10 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams-Ex\Line Number\bin\Debug\netcoreapp2.0\Line Number.deps.json
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams-Ex\Line Number\bin\Debug\netcoreapp2.0\Line Number.runtimeconfig.json
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams-Ex\Line Number\bin\Debug\netcoreapp2.0\Line Number.runtimeconfig.dev.json
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams-Ex\Line Number\bin\Debug\netcoreapp2.0\Line Number.dll
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams-Ex\Line Number\bin\Debug\netcoreapp2.0\Line Number.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams-Ex\Line Number\obj\Debug\netcoreapp2.0\Line Number.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams-Ex\Line Number\obj\Debug\netcoreapp2.0\Line Number.AssemblyInfoInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams-Ex\Line Number\obj\Debug\netcoreapp2.0\Line Number.AssemblyInfo.cs
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams-Ex\Line Number\obj\Debug\netcoreapp2.0\Line Number.dll
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams-Ex\Line Number\obj\Debug\netcoreapp2.0\Line Number.pdb

@@ -1,0 +1,10 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams\Write To File Reversed\bin\Debug\netcoreapp2.0\Write To File Reversed.deps.json
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams\Write To File Reversed\bin\Debug\netcoreapp2.0\Write To File Reversed.runtimeconfig.json
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams\Write To File Reversed\bin\Debug\netcoreapp2.0\Write To File Reversed.runtimeconfig.dev.json
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams\Write To File Reversed\bin\Debug\netcoreapp2.0\Write To File Reversed.dll
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams\Write To File Reversed\bin\Debug\netcoreapp2.0\Write To File Reversed.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams\Write To File Reversed\obj\Debug\netcoreapp2.0\Write To File Reversed.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams\Write To File Reversed\obj\Debug\netcoreapp2.0\Write To File Reversed.AssemblyInfoInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams\Write To File Reversed\obj\Debug\netcoreapp2.0\Write To File Reversed.AssemblyInfo.cs
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams\Write To File Reversed\obj\Debug\netcoreapp2.0\Write To File Reversed.dll
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams\Write To File Reversed\obj\Debug\netcoreapp2.0\Write To File Reversed.pdb
