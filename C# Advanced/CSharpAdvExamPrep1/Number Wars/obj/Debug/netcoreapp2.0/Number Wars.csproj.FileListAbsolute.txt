@@ -1,0 +1,11 @@
+c:\users\spiridiv\documents\visual studio 2017\Projects\Softuni\C# Advanced\CSharpAdvExamPrep1\Number Wars\bin\Debug\netcoreapp2.0\Number Wars.deps.json
+c:\users\spiridiv\documents\visual studio 2017\Projects\Softuni\C# Advanced\CSharpAdvExamPrep1\Number Wars\bin\Debug\netcoreapp2.0\Number Wars.runtimeconfig.json
+c:\users\spiridiv\documents\visual studio 2017\Projects\Softuni\C# Advanced\CSharpAdvExamPrep1\Number Wars\bin\Debug\netcoreapp2.0\Number Wars.runtimeconfig.dev.json
+c:\users\spiridiv\documents\visual studio 2017\Projects\Softuni\C# Advanced\CSharpAdvExamPrep1\Number Wars\bin\Debug\netcoreapp2.0\Number Wars.dll
+c:\users\spiridiv\documents\visual studio 2017\Projects\Softuni\C# Advanced\CSharpAdvExamPrep1\Number Wars\bin\Debug\netcoreapp2.0\Number Wars.pdb
+c:\users\spiridiv\documents\visual studio 2017\Projects\Softuni\C# Advanced\CSharpAdvExamPrep1\Number Wars\obj\Debug\netcoreapp2.0\Number Wars.csprojResolveAssemblyReference.cache
+c:\users\spiridiv\documents\visual studio 2017\Projects\Softuni\C# Advanced\CSharpAdvExamPrep1\Number Wars\obj\Debug\netcoreapp2.0\Number Wars.csproj.CoreCompileInputs.cache
+c:\users\spiridiv\documents\visual studio 2017\Projects\Softuni\C# Advanced\CSharpAdvExamPrep1\Number Wars\obj\Debug\netcoreapp2.0\Number Wars.AssemblyInfoInputs.cache
+c:\users\spiridiv\documents\visual studio 2017\Projects\Softuni\C# Advanced\CSharpAdvExamPrep1\Number Wars\obj\Debug\netcoreapp2.0\Number Wars.AssemblyInfo.cs
+c:\users\spiridiv\documents\visual studio 2017\Projects\Softuni\C# Advanced\CSharpAdvExamPrep1\Number Wars\obj\Debug\netcoreapp2.0\Number Wars.dll
+c:\users\spiridiv\documents\visual studio 2017\Projects\Softuni\C# Advanced\CSharpAdvExamPrep1\Number Wars\obj\Debug\netcoreapp2.0\Number Wars.pdb
