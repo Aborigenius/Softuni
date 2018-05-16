@@ -1,0 +1,11 @@
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Defining Simple Classes\Defining Simple Classes\obj\Debug\netcoreapp2.0\Defining Simple Classes.csprojResolveAssemblyReference.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Defining Simple Classes\Defining Simple Classes\obj\Debug\netcoreapp2.0\Defining Simple Classes.csproj.CoreCompileInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Defining Simple Classes\Defining Simple Classes\obj\Debug\netcoreapp2.0\Defining Simple Classes.AssemblyInfoInputs.cache
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Defining Simple Classes\Defining Simple Classes\obj\Debug\netcoreapp2.0\Defining Simple Classes.AssemblyInfo.cs
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Defining Simple Classes\Defining Simple Classes\bin\Debug\netcoreapp2.0\Defining Simple Classes.deps.json
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Defining Simple Classes\Defining Simple Classes\bin\Debug\netcoreapp2.0\Defining Simple Classes.runtimeconfig.json
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Defining Simple Classes\Defining Simple Classes\bin\Debug\netcoreapp2.0\Defining Simple Classes.runtimeconfig.dev.json
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Defining Simple Classes\Defining Simple Classes\bin\Debug\netcoreapp2.0\Defining Simple Classes.dll
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Defining Simple Classes\Defining Simple Classes\bin\Debug\netcoreapp2.0\Defining Simple Classes.pdb
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Defining Simple Classes\Defining Simple Classes\obj\Debug\netcoreapp2.0\Defining Simple Classes.dll
+C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Defining Simple Classes\Defining Simple Classes\obj\Debug\netcoreapp2.0\Defining Simple Classes.pdb
