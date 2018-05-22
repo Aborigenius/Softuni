@@ -1,18 +1,10 @@
-"use strict";
-
-<<<<<<< HEAD
-function multiplTable(n) {
-
-    let result = "<table border='1'><tr><td>x</td>";
-    for (let row = 1; row <= n; row++) {
-        result += `<td>${row}</td>`;
-
-    }
-    result += "</tr>";
-    result += "</table>";
-    console.log(result);
-=======
-function multiplTable (n){
+o<html>
+    <head>
+        <title>Multiplier Table</title> 
+    </head>
+    <body>
+        <script>
+            function multiplTable (n){
     var result = "<table border='1'>";
     result += "<tr><th>x</th>";
     for (var i = 0; i <= n; i++) {
@@ -33,8 +25,11 @@ function multiplTable (n){
     }
     result = result.slice(0, -4);
     result += "</table>";
-console.log(result);
->>>>>>> cdfd6484bc635d1a9f4ac1fe1a88910be49b4f52
+return result;
 }
 
-multiplTable(5);
+ document.body.innerHTML =  multiplTable(5);
+            </script>
+           
+</body>
+</html>
