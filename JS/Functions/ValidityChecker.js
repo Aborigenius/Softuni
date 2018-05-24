@@ -1,19 +1,18 @@
-"use strict";
-
-function validityPisnaMiOtVas([x1, y1, x2, y2]) {
+function validityChecker([x1, y1, x2, y2]) {
     [x1, y1, x2, y2] = [x1, y1, x2, y2].map(Number);
 
-    function hypoCheck() {
-        let hypo = Math.hypot(x2 - x1, y2 - y1);
-
-        console.log(hypo);
-
-        if (hypo % 1 === 0) {
+    function checkValidity(x1, y1, x2, y2) {
+        let deltaX = x2 - x1;
+        let deltaY = y2 - y1;
+        let distance = Math.sqrt(deltaX * deltaX + deltaY * deltaY);
+        if (distance % 1 == 0) {
             console.log(`{${x1}, ${y1}} to {${x2}, ${y2}} is valid`);
         } else {
             console.log(`{${x1}, ${y1}} to {${x2}, ${y2}} is invalid`);
         }
     }
-}
 
-validityPisnaMiOtVas([3, 0, 0, 4]);
+    checkValidity(x1, y1, 0, 0);
+    checkValidity(x2, y2, 0, 0);
+    checkValidity(x1, y1, x2, y2);
+}
