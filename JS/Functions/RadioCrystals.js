@@ -63,9 +63,11 @@ function radioCrystal(input) {
             pesho.cut();
             cutsCounter++;
         }
-        console.log(`Cut x${cutsCounter}`);
-        pesho.r();
-        console.log("Transporting and washing");
+        if (cutsCounter > 0) {
+            console.log(`Cut x${cutsCounter}`);
+            pesho.r();
+            console.log("Transporting and washing");
+        }
         while (pesho.density >= (requiredThickness * 1.2)) {
             pesho.lap();
             lapCounter++;
