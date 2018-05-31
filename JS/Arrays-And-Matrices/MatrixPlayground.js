@@ -1,12 +1,28 @@
-function matrix(m, n) {
-    var g = Array.from(new Array(N), (val, index) => index + 1);
-    console.log(g);
-    var result = [];
-    for (var i = 0; i < n; i++) {
-        result.push(new Array(n).fill(i + 1));
+function spiralArray(rows, cols) {
+    function matrix(rows, cols, defaultValue) {
+
+        var arr = [];
+
+        // Creates all lines:
+        for (var i = 0; i < rows; i++) {
+
+            // Creates an empty line
+            arr.push([]);
+
+            // Adds cols to the empty line:
+            arr[i].push(new Array(cols));
+
+            for (var j = 0; j < cols; j++) {
+                // Initializes:
+                arr[i][j] = defaultValue;
+                defaultValue++;
+            }
+        }
+
+        return arr;
     }
-    return result;
+    x = matrix(rows, cols, 1);
 
-
+    console.log(x);
 }
-console.log(matrix(5, 5));
+spiralArray(5, 5);
