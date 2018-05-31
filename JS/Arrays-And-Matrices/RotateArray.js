@@ -1,10 +1,12 @@
 "use strict";
 
 function rotateArray(input) {
-    let howManyTimes = input.pop();
+    let howManyTimes = Number(input.pop());
+    howManyTimes %= input.length;
 
-    while (howManyTimes--) {
-        input.splice(0, 0, input.pop());
+    for (var index = 0; index < howManyTimes; index++) {
+        let lastElement = input.pop();
+        input.unshift(lastElement);
     }
     console.log(input.join(' '));
 }
