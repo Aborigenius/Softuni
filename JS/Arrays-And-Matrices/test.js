@@ -1,33 +1,21 @@
-function magicMatrices(matrix) {
+function starOrbit(input) {
+    let rows = input[0];
+    let cols = input[1];
+    let starRow = input[2];
+    let starCol = input[3];
 
-    let sum = matrix[0].reduce((a, b) => a + b);
-    let isMagic = true;
+    let matrix = [];
+    for (let i = 0; i < rows; i++) {
+        matrix.push([]);
+    }
 
-    for (let i = 1; i < matrix.length; i++) {
-        if (sum != matrix[i].reduce((a, b) => a + b)) {
-            isMagic = false;
+    for (let row = 0; row < rows; row++) {
+        for (let col = 0; col < cols; col++) {
+            matrix[row][col] = Math.max(Math.abs(row - starRow), Math.abs(col - starCol)) + 1;
         }
     }
 
-    for (let col = 0; col < matrix[0].length; col++) {
-        let sumCol = 0;
-        for (let row = 0; row < matrix.length; row++) {
-            sumCol += matrix[row][col];
-        }
-
-        if (sumCol != sum) {
-            isMagic = false;
-        }
-    }
-
-    console.log(isMagic);
+    console.log(matrix.map(row => row.join(" ")).join("\n"));
 }
 
-
-magicMatrices([
-
-    [4, 5, 6],
-    [6, 5, 4],
-    [5, 5, 5]
-
-]);
+starOrbit([5, 5, 0, 0]);
