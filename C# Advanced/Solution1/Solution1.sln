@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2D17BD31-5FA7-49DA-BD57-A8064408C7ED}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{44777265-9098-4C50-9EC8-1CE4A7B0556B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreUI.Mvc", "src\CoreUI.Mvc\CoreUI.Mvc.csproj", "{B4B6523F-E2D3-467C-9A17-25DF41B1B81D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4B6523F-E2D3-467C-9A17-25DF41B1B81D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B6523F-E2D3-467C-9A17-25DF41B1B81D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B6523F-E2D3-467C-9A17-25DF41B1B81D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B6523F-E2D3-467C-9A17-25DF41B1B81D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{44777265-9098-4C50-9EC8-1CE4A7B0556B} = {2D17BD31-5FA7-49DA-BD57-A8064408C7ED}
+		{B4B6523F-E2D3-467C-9A17-25DF41B1B81D} = {44777265-9098-4C50-9EC8-1CE4A7B0556B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E20F575-7AEB-4501-B6E4-6EF483ABCDDC}
+	EndGlobalSection
+EndGlobal
