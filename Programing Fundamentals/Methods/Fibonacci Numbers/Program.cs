@@ -12,7 +12,7 @@ public class Test
     {
         int a = 0;
         int b = 1;
-        // In N steps compute Fibonacci sequence iteratively.
+        // In N steps compute Fibonacci sequence iteractivly.
         for (int i = 0; i < n+1; i++)
         {
             int temp = a;

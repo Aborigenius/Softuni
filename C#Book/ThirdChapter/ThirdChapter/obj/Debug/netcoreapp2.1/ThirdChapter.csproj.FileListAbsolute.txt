@@ -1,0 +1,11 @@
+C:\Projects\C#Book\ThirdChapter\ThirdChapter\bin\Debug\netcoreapp2.1\ThirdChapter.deps.json
+C:\Projects\C#Book\ThirdChapter\ThirdChapter\bin\Debug\netcoreapp2.1\ThirdChapter.runtimeconfig.json
+C:\Projects\C#Book\ThirdChapter\ThirdChapter\bin\Debug\netcoreapp2.1\ThirdChapter.runtimeconfig.dev.json
+C:\Projects\C#Book\ThirdChapter\ThirdChapter\bin\Debug\netcoreapp2.1\ThirdChapter.dll
+C:\Projects\C#Book\ThirdChapter\ThirdChapter\bin\Debug\netcoreapp2.1\ThirdChapter.pdb
+C:\Projects\C#Book\ThirdChapter\ThirdChapter\obj\Debug\netcoreapp2.1\ThirdChapter.csprojAssemblyReference.cache
+C:\Projects\C#Book\ThirdChapter\ThirdChapter\obj\Debug\netcoreapp2.1\ThirdChapter.csproj.CoreCompileInputs.cache
+C:\Projects\C#Book\ThirdChapter\ThirdChapter\obj\Debug\netcoreapp2.1\ThirdChapter.AssemblyInfoInputs.cache
+C:\Projects\C#Book\ThirdChapter\ThirdChapter\obj\Debug\netcoreapp2.1\ThirdChapter.AssemblyInfo.cs
+C:\Projects\C#Book\ThirdChapter\ThirdChapter\obj\Debug\netcoreapp2.1\ThirdChapter.dll
+C:\Projects\C#Book\ThirdChapter\ThirdChapter\obj\Debug\netcoreapp2.1\ThirdChapter.pdb
