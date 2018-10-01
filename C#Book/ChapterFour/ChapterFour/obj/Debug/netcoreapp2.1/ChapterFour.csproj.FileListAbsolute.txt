@@ -9,3 +9,14 @@ C:\Projects\C#Book\ChapterFour\ChapterFour\obj\Debug\netcoreapp2.1\ChapterFour.A
 C:\Projects\C#Book\ChapterFour\ChapterFour\obj\Debug\netcoreapp2.1\ChapterFour.AssemblyInfo.cs
 C:\Projects\C#Book\ChapterFour\ChapterFour\obj\Debug\netcoreapp2.1\ChapterFour.dll
 C:\Projects\C#Book\ChapterFour\ChapterFour\obj\Debug\netcoreapp2.1\ChapterFour.pdb
+C:\Projects\Softuni\C#Book\ChapterFour\ChapterFour\bin\Debug\netcoreapp2.1\ChapterFour.deps.json
+C:\Projects\Softuni\C#Book\ChapterFour\ChapterFour\bin\Debug\netcoreapp2.1\ChapterFour.runtimeconfig.json
+C:\Projects\Softuni\C#Book\ChapterFour\ChapterFour\bin\Debug\netcoreapp2.1\ChapterFour.runtimeconfig.dev.json
+C:\Projects\Softuni\C#Book\ChapterFour\ChapterFour\bin\Debug\netcoreapp2.1\ChapterFour.dll
+C:\Projects\Softuni\C#Book\ChapterFour\ChapterFour\bin\Debug\netcoreapp2.1\ChapterFour.pdb
+C:\Projects\Softuni\C#Book\ChapterFour\ChapterFour\obj\Debug\netcoreapp2.1\ChapterFour.csprojAssemblyReference.cache
+C:\Projects\Softuni\C#Book\ChapterFour\ChapterFour\obj\Debug\netcoreapp2.1\ChapterFour.csproj.CoreCompileInputs.cache
+C:\Projects\Softuni\C#Book\ChapterFour\ChapterFour\obj\Debug\netcoreapp2.1\ChapterFour.AssemblyInfoInputs.cache
+C:\Projects\Softuni\C#Book\ChapterFour\ChapterFour\obj\Debug\netcoreapp2.1\ChapterFour.AssemblyInfo.cs
+C:\Projects\Softuni\C#Book\ChapterFour\ChapterFour\obj\Debug\netcoreapp2.1\ChapterFour.dll
+C:\Projects\Softuni\C#Book\ChapterFour\ChapterFour\obj\Debug\netcoreapp2.1\ChapterFour.pdb

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\C#Book\\ThirdChapter\\ThirdChapter\\ThirdChapter.csproj",
+      "projectUniqueName": "C:\\Projects\\Softuni\\C#Book\\ThirdChapter\\ThirdChapter\\ThirdChapter.csproj",
       "projectName": "ThirdChapter",
-      "projectPath": "C:\\Projects\\C#Book\\ThirdChapter\\ThirdChapter\\ThirdChapter.csproj",
+      "projectPath": "C:\\Projects\\Softuni\\C#Book\\ThirdChapter\\ThirdChapter\\ThirdChapter.csproj",
       "packagesPath": "C:\\Users\\spiridiv\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\C#Book\\ThirdChapter\\ThirdChapter\\obj\\",
+      "outputPath": "C:\\Projects\\Softuni\\C#Book\\ThirdChapter\\ThirdChapter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

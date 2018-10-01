@@ -37,7 +37,9 @@ namespace ChapterFour
             {
                 return new List<T>(values);
             }
-            Console.WriteLine($"Numbers dividing to 5 are: {string.Join(" ", result)}");
+            //Console.WriteLine($"Numbers dividing to 5 are: {string.Join(" ", result)}");
+
+            Console.WriteLine("{0:C2}", 123.456);
         }
 
     }
