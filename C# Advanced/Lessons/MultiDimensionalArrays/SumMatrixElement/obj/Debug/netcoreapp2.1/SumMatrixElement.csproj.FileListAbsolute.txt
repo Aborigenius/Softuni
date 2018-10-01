@@ -1,0 +1,11 @@
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\SumMatrixElement\bin\Debug\netcoreapp2.1\SumMatrixElement.deps.json
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\SumMatrixElement\bin\Debug\netcoreapp2.1\SumMatrixElement.runtimeconfig.json
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\SumMatrixElement\bin\Debug\netcoreapp2.1\SumMatrixElement.runtimeconfig.dev.json
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\SumMatrixElement\bin\Debug\netcoreapp2.1\SumMatrixElement.dll
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\SumMatrixElement\bin\Debug\netcoreapp2.1\SumMatrixElement.pdb
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\SumMatrixElement\obj\Debug\netcoreapp2.1\SumMatrixElement.csprojAssemblyReference.cache
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\SumMatrixElement\obj\Debug\netcoreapp2.1\SumMatrixElement.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\SumMatrixElement\obj\Debug\netcoreapp2.1\SumMatrixElement.AssemblyInfoInputs.cache
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\SumMatrixElement\obj\Debug\netcoreapp2.1\SumMatrixElement.AssemblyInfo.cs
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\SumMatrixElement\obj\Debug\netcoreapp2.1\SumMatrixElement.dll
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\SumMatrixElement\obj\Debug\netcoreapp2.1\SumMatrixElement.pdb

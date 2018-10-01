@@ -1,0 +1,11 @@
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.deps.json
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.runtimeconfig.json
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.runtimeconfig.dev.json
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.dll
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.pdb
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.AssemblyInfoInputs.cache
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.AssemblyInfo.cs
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.dll
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.pdb
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.csprojAssemblyReference.cache

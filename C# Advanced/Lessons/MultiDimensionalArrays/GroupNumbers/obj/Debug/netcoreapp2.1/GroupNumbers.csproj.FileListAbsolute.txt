@@ -1,0 +1,11 @@
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\GroupNumbers\bin\Debug\netcoreapp2.1\GroupNumbers.deps.json
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\GroupNumbers\bin\Debug\netcoreapp2.1\GroupNumbers.runtimeconfig.json
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\GroupNumbers\bin\Debug\netcoreapp2.1\GroupNumbers.runtimeconfig.dev.json
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\GroupNumbers\bin\Debug\netcoreapp2.1\GroupNumbers.dll
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\GroupNumbers\bin\Debug\netcoreapp2.1\GroupNumbers.pdb
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\GroupNumbers\obj\Debug\netcoreapp2.1\GroupNumbers.csprojAssemblyReference.cache
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\GroupNumbers\obj\Debug\netcoreapp2.1\GroupNumbers.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\GroupNumbers\obj\Debug\netcoreapp2.1\GroupNumbers.AssemblyInfoInputs.cache
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\GroupNumbers\obj\Debug\netcoreapp2.1\GroupNumbers.AssemblyInfo.cs
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\GroupNumbers\obj\Debug\netcoreapp2.1\GroupNumbers.dll
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\GroupNumbers\obj\Debug\netcoreapp2.1\GroupNumbers.pdb

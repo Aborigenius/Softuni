@@ -1,0 +1,11 @@
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\StacksAndQueues\bin\Debug\netcoreapp2.1\StacksAndQueues.deps.json
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\StacksAndQueues\bin\Debug\netcoreapp2.1\StacksAndQueues.runtimeconfig.json
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\StacksAndQueues\bin\Debug\netcoreapp2.1\StacksAndQueues.runtimeconfig.dev.json
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\StacksAndQueues\bin\Debug\netcoreapp2.1\StacksAndQueues.dll
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\StacksAndQueues\bin\Debug\netcoreapp2.1\StacksAndQueues.pdb
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\StacksAndQueues\obj\Debug\netcoreapp2.1\StacksAndQueues.csprojAssemblyReference.cache
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\StacksAndQueues\obj\Debug\netcoreapp2.1\StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\StacksAndQueues\obj\Debug\netcoreapp2.1\StacksAndQueues.AssemblyInfoInputs.cache
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\StacksAndQueues\obj\Debug\netcoreapp2.1\StacksAndQueues.AssemblyInfo.cs
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\StacksAndQueues\obj\Debug\netcoreapp2.1\StacksAndQueues.dll
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\StacksAndQueues\obj\Debug\netcoreapp2.1\StacksAndQueues.pdb

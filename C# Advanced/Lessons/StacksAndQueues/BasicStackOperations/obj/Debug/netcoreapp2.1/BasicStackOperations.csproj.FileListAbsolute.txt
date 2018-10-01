@@ -1,0 +1,11 @@
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp2.1\BasicStackOperations.deps.json
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp2.1\BasicStackOperations.runtimeconfig.json
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp2.1\BasicStackOperations.runtimeconfig.dev.json
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp2.1\BasicStackOperations.dll
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\BasicStackOperations\bin\Debug\netcoreapp2.1\BasicStackOperations.pdb
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp2.1\BasicStackOperations.csprojAssemblyReference.cache
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp2.1\BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp2.1\BasicStackOperations.AssemblyInfoInputs.cache
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp2.1\BasicStackOperations.AssemblyInfo.cs
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp2.1\BasicStackOperations.dll
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\BasicStackOperations\obj\Debug\netcoreapp2.1\BasicStackOperations.pdb

@@ -1,0 +1,11 @@
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RubixMatrix\bin\Debug\netcoreapp2.1\RubixMatrix.deps.json
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RubixMatrix\bin\Debug\netcoreapp2.1\RubixMatrix.runtimeconfig.json
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RubixMatrix\bin\Debug\netcoreapp2.1\RubixMatrix.runtimeconfig.dev.json
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RubixMatrix\bin\Debug\netcoreapp2.1\RubixMatrix.dll
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RubixMatrix\bin\Debug\netcoreapp2.1\RubixMatrix.pdb
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RubixMatrix\obj\Debug\netcoreapp2.1\RubixMatrix.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RubixMatrix\obj\Debug\netcoreapp2.1\RubixMatrix.AssemblyInfoInputs.cache
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RubixMatrix\obj\Debug\netcoreapp2.1\RubixMatrix.AssemblyInfo.cs
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RubixMatrix\obj\Debug\netcoreapp2.1\RubixMatrix.dll
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RubixMatrix\obj\Debug\netcoreapp2.1\RubixMatrix.pdb
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\RubixMatrix\obj\Debug\netcoreapp2.1\RubixMatrix.csprojAssemblyReference.cache

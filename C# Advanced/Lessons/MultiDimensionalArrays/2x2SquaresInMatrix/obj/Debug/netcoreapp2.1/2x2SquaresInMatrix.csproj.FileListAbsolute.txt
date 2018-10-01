@@ -1,0 +1,10 @@
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\2x2SquaresInMatrix\bin\Debug\netcoreapp2.1\2x2SquaresInMatrix.deps.json
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\2x2SquaresInMatrix\bin\Debug\netcoreapp2.1\2x2SquaresInMatrix.runtimeconfig.json
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\2x2SquaresInMatrix\bin\Debug\netcoreapp2.1\2x2SquaresInMatrix.runtimeconfig.dev.json
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\2x2SquaresInMatrix\bin\Debug\netcoreapp2.1\2x2SquaresInMatrix.dll
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\2x2SquaresInMatrix\bin\Debug\netcoreapp2.1\2x2SquaresInMatrix.pdb
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\2x2SquaresInMatrix\obj\Debug\netcoreapp2.1\2x2SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\2x2SquaresInMatrix\obj\Debug\netcoreapp2.1\2x2SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\2x2SquaresInMatrix\obj\Debug\netcoreapp2.1\2x2SquaresInMatrix.AssemblyInfo.cs
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\2x2SquaresInMatrix\obj\Debug\netcoreapp2.1\2x2SquaresInMatrix.dll
+C:\Projects\C#Advanced\Lessons\MultiDimensionalArrays\2x2SquaresInMatrix\obj\Debug\netcoreapp2.1\2x2SquaresInMatrix.pdb

@@ -1,0 +1,10 @@
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\MaximumElement\bin\Debug\netcoreapp2.1\MaximumElement.deps.json
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\MaximumElement\bin\Debug\netcoreapp2.1\MaximumElement.runtimeconfig.json
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\MaximumElement\bin\Debug\netcoreapp2.1\MaximumElement.runtimeconfig.dev.json
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\MaximumElement\bin\Debug\netcoreapp2.1\MaximumElement.dll
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\MaximumElement\bin\Debug\netcoreapp2.1\MaximumElement.pdb
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\MaximumElement\obj\Debug\netcoreapp2.1\MaximumElement.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\MaximumElement\obj\Debug\netcoreapp2.1\MaximumElement.AssemblyInfoInputs.cache
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\MaximumElement\obj\Debug\netcoreapp2.1\MaximumElement.AssemblyInfo.cs
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\MaximumElement\obj\Debug\netcoreapp2.1\MaximumElement.dll
+C:\Projects\C#Advanced\Lessons\StacksAndQueues\MaximumElement\obj\Debug\netcoreapp2.1\MaximumElement.pdb
