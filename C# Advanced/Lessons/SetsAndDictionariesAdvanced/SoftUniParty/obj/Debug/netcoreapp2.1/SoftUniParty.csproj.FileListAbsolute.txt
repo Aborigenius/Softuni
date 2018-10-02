@@ -1,0 +1,11 @@
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.deps.json
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.runtimeconfig.json
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.runtimeconfig.dev.json
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.dll
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.pdb
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.csprojAssemblyReference.cache
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.AssemblyInfoInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.AssemblyInfo.cs
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.dll
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.pdb

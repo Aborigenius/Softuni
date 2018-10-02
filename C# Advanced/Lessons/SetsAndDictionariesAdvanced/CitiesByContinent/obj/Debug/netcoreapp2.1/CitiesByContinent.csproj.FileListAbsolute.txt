@@ -1,0 +1,11 @@
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\CitiesByContinent\bin\Debug\netcoreapp2.1\CitiesByContinent.deps.json
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\CitiesByContinent\bin\Debug\netcoreapp2.1\CitiesByContinent.runtimeconfig.json
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\CitiesByContinent\bin\Debug\netcoreapp2.1\CitiesByContinent.runtimeconfig.dev.json
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\CitiesByContinent\bin\Debug\netcoreapp2.1\CitiesByContinent.dll
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\CitiesByContinent\bin\Debug\netcoreapp2.1\CitiesByContinent.pdb
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\CitiesByContinent\obj\Debug\netcoreapp2.1\CitiesByContinent.csproj.CoreCompileInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\CitiesByContinent\obj\Debug\netcoreapp2.1\CitiesByContinent.AssemblyInfoInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\CitiesByContinent\obj\Debug\netcoreapp2.1\CitiesByContinent.AssemblyInfo.cs
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\CitiesByContinent\obj\Debug\netcoreapp2.1\CitiesByContinent.dll
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\CitiesByContinent\obj\Debug\netcoreapp2.1\CitiesByContinent.pdb
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\CitiesByContinent\obj\Debug\netcoreapp2.1\CitiesByContinent.csprojAssemblyReference.cache

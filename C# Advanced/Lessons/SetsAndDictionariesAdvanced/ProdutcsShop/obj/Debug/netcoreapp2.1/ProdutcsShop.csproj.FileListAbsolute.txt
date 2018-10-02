@@ -1,0 +1,10 @@
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\ProdutcsShop\bin\Debug\netcoreapp2.1\ProdutcsShop.deps.json
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\ProdutcsShop\bin\Debug\netcoreapp2.1\ProdutcsShop.runtimeconfig.json
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\ProdutcsShop\bin\Debug\netcoreapp2.1\ProdutcsShop.runtimeconfig.dev.json
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\ProdutcsShop\bin\Debug\netcoreapp2.1\ProdutcsShop.dll
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\ProdutcsShop\bin\Debug\netcoreapp2.1\ProdutcsShop.pdb
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\ProdutcsShop\obj\Debug\netcoreapp2.1\ProdutcsShop.csproj.CoreCompileInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\ProdutcsShop\obj\Debug\netcoreapp2.1\ProdutcsShop.AssemblyInfoInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\ProdutcsShop\obj\Debug\netcoreapp2.1\ProdutcsShop.AssemblyInfo.cs
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\ProdutcsShop\obj\Debug\netcoreapp2.1\ProdutcsShop.dll
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\ProdutcsShop\obj\Debug\netcoreapp2.1\ProdutcsShop.pdb

@@ -1,0 +1,11 @@
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\bin\Debug\netcoreapp2.1\SetsAndDictionariesAdvanced.deps.json
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\bin\Debug\netcoreapp2.1\SetsAndDictionariesAdvanced.runtimeconfig.json
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\bin\Debug\netcoreapp2.1\SetsAndDictionariesAdvanced.runtimeconfig.dev.json
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\bin\Debug\netcoreapp2.1\SetsAndDictionariesAdvanced.dll
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\bin\Debug\netcoreapp2.1\SetsAndDictionariesAdvanced.pdb
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp2.1\SetsAndDictionariesAdvanced.csprojAssemblyReference.cache
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp2.1\SetsAndDictionariesAdvanced.csproj.CoreCompileInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp2.1\SetsAndDictionariesAdvanced.AssemblyInfoInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp2.1\SetsAndDictionariesAdvanced.AssemblyInfo.cs
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp2.1\SetsAndDictionariesAdvanced.dll
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp2.1\SetsAndDictionariesAdvanced.pdb

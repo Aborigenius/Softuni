@@ -1,0 +1,10 @@
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\UniqueUsernames\bin\Debug\netcoreapp2.1\UniqueUsernames.deps.json
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\UniqueUsernames\bin\Debug\netcoreapp2.1\UniqueUsernames.runtimeconfig.json
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\UniqueUsernames\bin\Debug\netcoreapp2.1\UniqueUsernames.runtimeconfig.dev.json
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\UniqueUsernames\bin\Debug\netcoreapp2.1\UniqueUsernames.dll
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\UniqueUsernames\bin\Debug\netcoreapp2.1\UniqueUsernames.pdb
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\UniqueUsernames\obj\Debug\netcoreapp2.1\UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\UniqueUsernames\obj\Debug\netcoreapp2.1\UniqueUsernames.AssemblyInfoInputs.cache
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\UniqueUsernames\obj\Debug\netcoreapp2.1\UniqueUsernames.AssemblyInfo.cs
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\UniqueUsernames\obj\Debug\netcoreapp2.1\UniqueUsernames.dll
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\UniqueUsernames\obj\Debug\netcoreapp2.1\UniqueUsernames.pdb

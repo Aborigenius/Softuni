@@ -1,0 +1,11 @@
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\RecordUniqueNames\bin\Debug\netcoreapp2.1\RecordUniqueNames.deps.json
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\RecordUniqueNames\bin\Debug\netcoreapp2.1\RecordUniqueNames.runtimeconfig.json
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\RecordUniqueNames\bin\Debug\netcoreapp2.1\RecordUniqueNames.runtimeconfig.dev.json
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\RecordUniqueNames\bin\Debug\netcoreapp2.1\RecordUniqueNames.dll
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\RecordUniqueNames\bin\Debug\netcoreapp2.1\RecordUniqueNames.pdb
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\RecordUniqueNames\obj\Debug\netcoreapp2.1\RecordUniqueNames.csprojAssemblyReference.cache
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\RecordUniqueNames\obj\Debug\netcoreapp2.1\RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\RecordUniqueNames\obj\Debug\netcoreapp2.1\RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\RecordUniqueNames\obj\Debug\netcoreapp2.1\RecordUniqueNames.AssemblyInfo.cs
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\RecordUniqueNames\obj\Debug\netcoreapp2.1\RecordUniqueNames.dll
+C:\Projects\Softuni\C# Advanced\Lessons\SetsAndDictionariesAdvanced\RecordUniqueNames\obj\Debug\netcoreapp2.1\RecordUniqueNames.pdb
