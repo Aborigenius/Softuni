@@ -27,11 +27,9 @@ namespace SetsOfElements
                 set2.Add(input);
             }
 
-            HashSet<int> resultSet = new HashSet<int>();
-            if (set1.Contains)
-            {
+            Console.WriteLine(string.Join(" ", set1.Intersect(set2)));
 
-            }
+            //Console.WriteLine(set1.SetEquals(set2));
         }
     }
 }

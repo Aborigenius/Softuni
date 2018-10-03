@@ -1,0 +1,11 @@
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\TheV-Logger\bin\Debug\netcoreapp2.1\TheV-Logger.deps.json
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\TheV-Logger\bin\Debug\netcoreapp2.1\TheV-Logger.runtimeconfig.json
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\TheV-Logger\bin\Debug\netcoreapp2.1\TheV-Logger.runtimeconfig.dev.json
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\TheV-Logger\bin\Debug\netcoreapp2.1\TheV-Logger.dll
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\TheV-Logger\bin\Debug\netcoreapp2.1\TheV-Logger.pdb
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\TheV-Logger\obj\Debug\netcoreapp2.1\TheV-Logger.csprojAssemblyReference.cache
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\TheV-Logger\obj\Debug\netcoreapp2.1\TheV-Logger.csproj.CoreCompileInputs.cache
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\TheV-Logger\obj\Debug\netcoreapp2.1\TheV-Logger.AssemblyInfoInputs.cache
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\TheV-Logger\obj\Debug\netcoreapp2.1\TheV-Logger.AssemblyInfo.cs
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\TheV-Logger\obj\Debug\netcoreapp2.1\TheV-Logger.dll
+C:\Projects\Softuni\C# Advanced\Exams\SetsAndDictionaries\UniqueUsernames\TheV-Logger\obj\Debug\netcoreapp2.1\TheV-Logger.pdb
