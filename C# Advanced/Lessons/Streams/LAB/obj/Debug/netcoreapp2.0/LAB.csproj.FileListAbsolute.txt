@@ -9,3 +9,14 @@ C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Stre
 C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams\LAB\obj\Debug\netcoreapp2.0\LAB.AssemblyInfo.cs
 C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams\LAB\obj\Debug\netcoreapp2.0\LAB.dll
 C:\Users\spiridiv\Documents\Visual Studio 2017\Projects\Softuni\C# Advanced\Streams\LAB\obj\Debug\netcoreapp2.0\LAB.pdb
+C:\Projects\Softuni\C# Advanced\Lessons\Streams\LAB\bin\Debug\netcoreapp2.0\LAB.deps.json
+C:\Projects\Softuni\C# Advanced\Lessons\Streams\LAB\bin\Debug\netcoreapp2.0\LAB.runtimeconfig.json
+C:\Projects\Softuni\C# Advanced\Lessons\Streams\LAB\bin\Debug\netcoreapp2.0\LAB.runtimeconfig.dev.json
+C:\Projects\Softuni\C# Advanced\Lessons\Streams\LAB\bin\Debug\netcoreapp2.0\LAB.dll
+C:\Projects\Softuni\C# Advanced\Lessons\Streams\LAB\bin\Debug\netcoreapp2.0\LAB.pdb
+C:\Projects\Softuni\C# Advanced\Lessons\Streams\LAB\obj\Debug\netcoreapp2.0\LAB.csprojAssemblyReference.cache
+C:\Projects\Softuni\C# Advanced\Lessons\Streams\LAB\obj\Debug\netcoreapp2.0\LAB.csproj.CoreCompileInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\Streams\LAB\obj\Debug\netcoreapp2.0\LAB.AssemblyInfoInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\Streams\LAB\obj\Debug\netcoreapp2.0\LAB.AssemblyInfo.cs
+C:\Projects\Softuni\C# Advanced\Lessons\Streams\LAB\obj\Debug\netcoreapp2.0\LAB.dll
+C:\Projects\Softuni\C# Advanced\Lessons\Streams\LAB\obj\Debug\netcoreapp2.0\LAB.pdb

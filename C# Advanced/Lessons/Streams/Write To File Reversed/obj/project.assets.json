@@ -665,29 +665,23 @@
   },
   "packageFolders": {
     "C:\\Users\\spiridiv\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\spiridiv\\Documents\\Visual Studio 2017\\Projects\\Softuni\\C# Advanced\\Streams\\Write To File Reversed\\Write To File Reversed.csproj",
+      "projectUniqueName": "C:\\Projects\\Softuni\\C# Advanced\\Lessons\\Streams\\Write To File Reversed\\Write To File Reversed.csproj",
       "projectName": "Write To File Reversed",
-      "projectPath": "C:\\Users\\spiridiv\\Documents\\Visual Studio 2017\\Projects\\Softuni\\C# Advanced\\Streams\\Write To File Reversed\\Write To File Reversed.csproj",
+      "projectPath": "C:\\Projects\\Softuni\\C# Advanced\\Lessons\\Streams\\Write To File Reversed\\Write To File Reversed.csproj",
       "packagesPath": "C:\\Users\\spiridiv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\spiridiv\\Documents\\Visual Studio 2017\\Projects\\Softuni\\C# Advanced\\Streams\\Write To File Reversed\\obj\\",
+      "outputPath": "C:\\Projects\\Softuni\\C# Advanced\\Lessons\\Streams\\Write To File Reversed\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\spiridiv\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
