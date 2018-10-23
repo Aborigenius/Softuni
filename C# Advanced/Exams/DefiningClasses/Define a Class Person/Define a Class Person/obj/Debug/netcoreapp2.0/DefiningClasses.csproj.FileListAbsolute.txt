@@ -9,3 +9,14 @@ C:\Projects\C#Advanced\Exams\DefiningClasses\Define a Class Person\Define a Clas
 C:\Projects\C#Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\obj\Debug\netcoreapp2.0\DefiningClasses.AssemblyInfo.cs
 C:\Projects\C#Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\obj\Debug\netcoreapp2.0\DefiningClasses.dll
 C:\Projects\C#Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\obj\Debug\netcoreapp2.0\DefiningClasses.pdb
+C:\Projects\Softuni\C# Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\obj\Debug\netcoreapp2.0\DefiningClasses.csprojAssemblyReference.cache
+C:\Projects\Softuni\C# Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\obj\Debug\netcoreapp2.0\DefiningClasses.csproj.CoreCompileInputs.cache
+C:\Projects\Softuni\C# Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\obj\Debug\netcoreapp2.0\DefiningClasses.AssemblyInfoInputs.cache
+C:\Projects\Softuni\C# Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\obj\Debug\netcoreapp2.0\DefiningClasses.AssemblyInfo.cs
+C:\Projects\Softuni\C# Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\obj\Debug\netcoreapp2.0\DefiningClasses.dll
+C:\Projects\Softuni\C# Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\obj\Debug\netcoreapp2.0\DefiningClasses.pdb
+C:\Projects\Softuni\C# Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\bin\Debug\netcoreapp2.0\DefiningClasses.deps.json
+C:\Projects\Softuni\C# Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\bin\Debug\netcoreapp2.0\DefiningClasses.runtimeconfig.json
+C:\Projects\Softuni\C# Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\bin\Debug\netcoreapp2.0\DefiningClasses.runtimeconfig.dev.json
+C:\Projects\Softuni\C# Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\bin\Debug\netcoreapp2.0\DefiningClasses.dll
+C:\Projects\Softuni\C# Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\bin\Debug\netcoreapp2.0\DefiningClasses.pdb

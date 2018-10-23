@@ -13,10 +13,10 @@ namespace DefiningClasses
         //Constuctors
         public Family()
         {
-            this.FamilYMembrers = new List<Person>();
+            this.FamilyMembers = new List<Person>();
         }
 
-        public List<Person> FamilYMembrers
+        public List<Person> FamilyMembers
         {
             get { return this.familyMembers; }
             set { this.familyMembers = value; }
@@ -29,14 +29,13 @@ namespace DefiningClasses
             {
                 throw new Exception();
             }
-            this.FamilYMembrers.Add(member);
+            this.FamilyMembers.Add(member);
         }
 
         public Person GetOldestMember()
         {
-            return this.FamilYMembrers.OrderByDescending(x => x.Age).FirstOrDefault();
+            return this.FamilyMembers.OrderByDescending(x => x.Age).FirstOrDefault();
         }
 
-          
     }
 }

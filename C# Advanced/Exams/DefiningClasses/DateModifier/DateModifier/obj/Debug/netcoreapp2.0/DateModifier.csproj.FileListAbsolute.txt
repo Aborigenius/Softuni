@@ -1,0 +1,11 @@
+C:\Users\spiri\source\repos\DateModifier\DateModifier\bin\Debug\netcoreapp2.0\DateModifier.deps.json
+C:\Users\spiri\source\repos\DateModifier\DateModifier\bin\Debug\netcoreapp2.0\DateModifier.runtimeconfig.json
+C:\Users\spiri\source\repos\DateModifier\DateModifier\bin\Debug\netcoreapp2.0\DateModifier.runtimeconfig.dev.json
+C:\Users\spiri\source\repos\DateModifier\DateModifier\bin\Debug\netcoreapp2.0\DateModifier.dll
+C:\Users\spiri\source\repos\DateModifier\DateModifier\bin\Debug\netcoreapp2.0\DateModifier.pdb
+C:\Users\spiri\source\repos\DateModifier\DateModifier\obj\Debug\netcoreapp2.0\DateModifier.csprojAssemblyReference.cache
+C:\Users\spiri\source\repos\DateModifier\DateModifier\obj\Debug\netcoreapp2.0\DateModifier.csproj.CoreCompileInputs.cache
+C:\Users\spiri\source\repos\DateModifier\DateModifier\obj\Debug\netcoreapp2.0\DateModifier.AssemblyInfoInputs.cache
+C:\Users\spiri\source\repos\DateModifier\DateModifier\obj\Debug\netcoreapp2.0\DateModifier.AssemblyInfo.cs
+C:\Users\spiri\source\repos\DateModifier\DateModifier\obj\Debug\netcoreapp2.0\DateModifier.dll
+C:\Users\spiri\source\repos\DateModifier\DateModifier\obj\Debug\netcoreapp2.0\DateModifier.pdb
