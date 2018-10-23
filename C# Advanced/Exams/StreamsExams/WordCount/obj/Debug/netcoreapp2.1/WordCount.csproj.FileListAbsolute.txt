@@ -1,0 +1,11 @@
+C:\Projects\C#Advanced\Exams\StreamsExams\WordCount\bin\Debug\netcoreapp2.1\WordCount.deps.json
+C:\Projects\C#Advanced\Exams\StreamsExams\WordCount\bin\Debug\netcoreapp2.1\WordCount.runtimeconfig.json
+C:\Projects\C#Advanced\Exams\StreamsExams\WordCount\bin\Debug\netcoreapp2.1\WordCount.runtimeconfig.dev.json
+C:\Projects\C#Advanced\Exams\StreamsExams\WordCount\bin\Debug\netcoreapp2.1\WordCount.dll
+C:\Projects\C#Advanced\Exams\StreamsExams\WordCount\bin\Debug\netcoreapp2.1\WordCount.pdb
+C:\Projects\C#Advanced\Exams\StreamsExams\WordCount\obj\Debug\netcoreapp2.1\WordCount.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Exams\StreamsExams\WordCount\obj\Debug\netcoreapp2.1\WordCount.AssemblyInfoInputs.cache
+C:\Projects\C#Advanced\Exams\StreamsExams\WordCount\obj\Debug\netcoreapp2.1\WordCount.AssemblyInfo.cs
+C:\Projects\C#Advanced\Exams\StreamsExams\WordCount\obj\Debug\netcoreapp2.1\WordCount.dll
+C:\Projects\C#Advanced\Exams\StreamsExams\WordCount\obj\Debug\netcoreapp2.1\WordCount.pdb
+C:\Projects\C#Advanced\Exams\StreamsExams\WordCount\obj\Debug\netcoreapp2.1\WordCount.csprojAssemblyReference.cache

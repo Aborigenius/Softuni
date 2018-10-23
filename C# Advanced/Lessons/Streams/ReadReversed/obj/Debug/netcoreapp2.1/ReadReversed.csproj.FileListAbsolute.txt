@@ -1,0 +1,11 @@
+C:\Projects\C#Advanced\Lessons\Streams\ReadReversed\bin\Debug\netcoreapp2.1\ReadReversed.deps.json
+C:\Projects\C#Advanced\Lessons\Streams\ReadReversed\bin\Debug\netcoreapp2.1\ReadReversed.runtimeconfig.json
+C:\Projects\C#Advanced\Lessons\Streams\ReadReversed\bin\Debug\netcoreapp2.1\ReadReversed.runtimeconfig.dev.json
+C:\Projects\C#Advanced\Lessons\Streams\ReadReversed\bin\Debug\netcoreapp2.1\ReadReversed.dll
+C:\Projects\C#Advanced\Lessons\Streams\ReadReversed\bin\Debug\netcoreapp2.1\ReadReversed.pdb
+C:\Projects\C#Advanced\Lessons\Streams\ReadReversed\obj\Debug\netcoreapp2.1\ReadReversed.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Lessons\Streams\ReadReversed\obj\Debug\netcoreapp2.1\ReadReversed.AssemblyInfoInputs.cache
+C:\Projects\C#Advanced\Lessons\Streams\ReadReversed\obj\Debug\netcoreapp2.1\ReadReversed.AssemblyInfo.cs
+C:\Projects\C#Advanced\Lessons\Streams\ReadReversed\obj\Debug\netcoreapp2.1\ReadReversed.dll
+C:\Projects\C#Advanced\Lessons\Streams\ReadReversed\obj\Debug\netcoreapp2.1\ReadReversed.pdb
+C:\Projects\C#Advanced\Lessons\Streams\ReadReversed\obj\Debug\netcoreapp2.1\ReadReversed.csprojAssemblyReference.cache

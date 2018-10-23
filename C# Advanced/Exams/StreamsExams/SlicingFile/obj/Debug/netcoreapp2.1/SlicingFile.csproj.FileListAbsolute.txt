@@ -1,0 +1,11 @@
+C:\Projects\C#Advanced\Exams\StreamsExams\SlicingFile\bin\Debug\netcoreapp2.1\SlicingFile.deps.json
+C:\Projects\C#Advanced\Exams\StreamsExams\SlicingFile\bin\Debug\netcoreapp2.1\SlicingFile.runtimeconfig.json
+C:\Projects\C#Advanced\Exams\StreamsExams\SlicingFile\bin\Debug\netcoreapp2.1\SlicingFile.runtimeconfig.dev.json
+C:\Projects\C#Advanced\Exams\StreamsExams\SlicingFile\bin\Debug\netcoreapp2.1\SlicingFile.dll
+C:\Projects\C#Advanced\Exams\StreamsExams\SlicingFile\bin\Debug\netcoreapp2.1\SlicingFile.pdb
+C:\Projects\C#Advanced\Exams\StreamsExams\SlicingFile\obj\Debug\netcoreapp2.1\SlicingFile.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Exams\StreamsExams\SlicingFile\obj\Debug\netcoreapp2.1\SlicingFile.AssemblyInfoInputs.cache
+C:\Projects\C#Advanced\Exams\StreamsExams\SlicingFile\obj\Debug\netcoreapp2.1\SlicingFile.AssemblyInfo.cs
+C:\Projects\C#Advanced\Exams\StreamsExams\SlicingFile\obj\Debug\netcoreapp2.1\SlicingFile.dll
+C:\Projects\C#Advanced\Exams\StreamsExams\SlicingFile\obj\Debug\netcoreapp2.1\SlicingFile.pdb
+C:\Projects\C#Advanced\Exams\StreamsExams\SlicingFile\obj\Debug\netcoreapp2.1\SlicingFile.csprojAssemblyReference.cache

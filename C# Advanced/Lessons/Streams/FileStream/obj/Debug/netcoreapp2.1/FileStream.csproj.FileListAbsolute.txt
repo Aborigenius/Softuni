@@ -1,0 +1,10 @@
+C:\Projects\C#Advanced\Lessons\Streams\FileStream\bin\Debug\netcoreapp2.1\FileStream.deps.json
+C:\Projects\C#Advanced\Lessons\Streams\FileStream\bin\Debug\netcoreapp2.1\FileStream.runtimeconfig.json
+C:\Projects\C#Advanced\Lessons\Streams\FileStream\bin\Debug\netcoreapp2.1\FileStream.runtimeconfig.dev.json
+C:\Projects\C#Advanced\Lessons\Streams\FileStream\bin\Debug\netcoreapp2.1\FileStream.dll
+C:\Projects\C#Advanced\Lessons\Streams\FileStream\bin\Debug\netcoreapp2.1\FileStream.pdb
+C:\Projects\C#Advanced\Lessons\Streams\FileStream\obj\Debug\netcoreapp2.1\FileStream.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Lessons\Streams\FileStream\obj\Debug\netcoreapp2.1\FileStream.AssemblyInfoInputs.cache
+C:\Projects\C#Advanced\Lessons\Streams\FileStream\obj\Debug\netcoreapp2.1\FileStream.AssemblyInfo.cs
+C:\Projects\C#Advanced\Lessons\Streams\FileStream\obj\Debug\netcoreapp2.1\FileStream.dll
+C:\Projects\C#Advanced\Lessons\Streams\FileStream\obj\Debug\netcoreapp2.1\FileStream.pdb

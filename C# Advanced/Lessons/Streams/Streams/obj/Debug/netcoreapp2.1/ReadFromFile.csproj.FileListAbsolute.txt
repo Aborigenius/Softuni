@@ -1,0 +1,11 @@
+C:\Projects\C#Advanced\Lessons\Streams\Streams\bin\Debug\netcoreapp2.1\ReadFromFile.deps.json
+C:\Projects\C#Advanced\Lessons\Streams\Streams\bin\Debug\netcoreapp2.1\ReadFromFile.runtimeconfig.json
+C:\Projects\C#Advanced\Lessons\Streams\Streams\bin\Debug\netcoreapp2.1\ReadFromFile.runtimeconfig.dev.json
+C:\Projects\C#Advanced\Lessons\Streams\Streams\bin\Debug\netcoreapp2.1\ReadFromFile.dll
+C:\Projects\C#Advanced\Lessons\Streams\Streams\bin\Debug\netcoreapp2.1\ReadFromFile.pdb
+C:\Projects\C#Advanced\Lessons\Streams\Streams\obj\Debug\netcoreapp2.1\ReadFromFile.csprojAssemblyReference.cache
+C:\Projects\C#Advanced\Lessons\Streams\Streams\obj\Debug\netcoreapp2.1\ReadFromFile.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Lessons\Streams\Streams\obj\Debug\netcoreapp2.1\ReadFromFile.AssemblyInfoInputs.cache
+C:\Projects\C#Advanced\Lessons\Streams\Streams\obj\Debug\netcoreapp2.1\ReadFromFile.AssemblyInfo.cs
+C:\Projects\C#Advanced\Lessons\Streams\Streams\obj\Debug\netcoreapp2.1\ReadFromFile.dll
+C:\Projects\C#Advanced\Lessons\Streams\Streams\obj\Debug\netcoreapp2.1\ReadFromFile.pdb

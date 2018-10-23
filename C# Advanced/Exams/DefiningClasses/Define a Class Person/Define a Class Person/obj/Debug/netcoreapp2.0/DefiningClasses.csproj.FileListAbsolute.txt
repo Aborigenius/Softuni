@@ -1,0 +1,11 @@
+C:\Projects\C#Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\bin\Debug\netcoreapp2.0\DefiningClasses.deps.json
+C:\Projects\C#Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\bin\Debug\netcoreapp2.0\DefiningClasses.runtimeconfig.json
+C:\Projects\C#Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\bin\Debug\netcoreapp2.0\DefiningClasses.runtimeconfig.dev.json
+C:\Projects\C#Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\bin\Debug\netcoreapp2.0\DefiningClasses.dll
+C:\Projects\C#Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\bin\Debug\netcoreapp2.0\DefiningClasses.pdb
+C:\Projects\C#Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\obj\Debug\netcoreapp2.0\DefiningClasses.csprojAssemblyReference.cache
+C:\Projects\C#Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\obj\Debug\netcoreapp2.0\DefiningClasses.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\obj\Debug\netcoreapp2.0\DefiningClasses.AssemblyInfoInputs.cache
+C:\Projects\C#Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\obj\Debug\netcoreapp2.0\DefiningClasses.AssemblyInfo.cs
+C:\Projects\C#Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\obj\Debug\netcoreapp2.0\DefiningClasses.dll
+C:\Projects\C#Advanced\Exams\DefiningClasses\Define a Class Person\Define a Class Person\obj\Debug\netcoreapp2.0\DefiningClasses.pdb

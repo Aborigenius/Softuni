@@ -1,0 +1,11 @@
+C:\Projects\C#Advanced\Lessons\Streams\Simple TCP Server\bin\Debug\netcoreapp2.1\Simple TCP Server.deps.json
+C:\Projects\C#Advanced\Lessons\Streams\Simple TCP Server\bin\Debug\netcoreapp2.1\Simple TCP Server.runtimeconfig.json
+C:\Projects\C#Advanced\Lessons\Streams\Simple TCP Server\bin\Debug\netcoreapp2.1\Simple TCP Server.runtimeconfig.dev.json
+C:\Projects\C#Advanced\Lessons\Streams\Simple TCP Server\bin\Debug\netcoreapp2.1\Simple TCP Server.dll
+C:\Projects\C#Advanced\Lessons\Streams\Simple TCP Server\bin\Debug\netcoreapp2.1\Simple TCP Server.pdb
+C:\Projects\C#Advanced\Lessons\Streams\Simple TCP Server\obj\Debug\netcoreapp2.1\Simple TCP Server.csprojAssemblyReference.cache
+C:\Projects\C#Advanced\Lessons\Streams\Simple TCP Server\obj\Debug\netcoreapp2.1\Simple TCP Server.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Lessons\Streams\Simple TCP Server\obj\Debug\netcoreapp2.1\Simple TCP Server.AssemblyInfoInputs.cache
+C:\Projects\C#Advanced\Lessons\Streams\Simple TCP Server\obj\Debug\netcoreapp2.1\Simple TCP Server.AssemblyInfo.cs
+C:\Projects\C#Advanced\Lessons\Streams\Simple TCP Server\obj\Debug\netcoreapp2.1\Simple TCP Server.dll
+C:\Projects\C#Advanced\Lessons\Streams\Simple TCP Server\obj\Debug\netcoreapp2.1\Simple TCP Server.pdb

@@ -1,0 +1,10 @@
+C:\Projects\C#Advanced\Exams\StreamsExams\CopyBinaryFile\bin\Debug\netcoreapp2.1\CopyBinaryFile.deps.json
+C:\Projects\C#Advanced\Exams\StreamsExams\CopyBinaryFile\bin\Debug\netcoreapp2.1\CopyBinaryFile.runtimeconfig.json
+C:\Projects\C#Advanced\Exams\StreamsExams\CopyBinaryFile\bin\Debug\netcoreapp2.1\CopyBinaryFile.runtimeconfig.dev.json
+C:\Projects\C#Advanced\Exams\StreamsExams\CopyBinaryFile\bin\Debug\netcoreapp2.1\CopyBinaryFile.dll
+C:\Projects\C#Advanced\Exams\StreamsExams\CopyBinaryFile\bin\Debug\netcoreapp2.1\CopyBinaryFile.pdb
+C:\Projects\C#Advanced\Exams\StreamsExams\CopyBinaryFile\obj\Debug\netcoreapp2.1\CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Exams\StreamsExams\CopyBinaryFile\obj\Debug\netcoreapp2.1\CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Projects\C#Advanced\Exams\StreamsExams\CopyBinaryFile\obj\Debug\netcoreapp2.1\CopyBinaryFile.AssemblyInfo.cs
+C:\Projects\C#Advanced\Exams\StreamsExams\CopyBinaryFile\obj\Debug\netcoreapp2.1\CopyBinaryFile.dll
+C:\Projects\C#Advanced\Exams\StreamsExams\CopyBinaryFile\obj\Debug\netcoreapp2.1\CopyBinaryFile.pdb

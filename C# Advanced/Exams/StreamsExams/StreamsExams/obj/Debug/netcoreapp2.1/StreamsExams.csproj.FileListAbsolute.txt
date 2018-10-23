@@ -1,0 +1,11 @@
+C:\Projects\C#Advanced\Exams\StreamsExams\StreamsExams\bin\Debug\netcoreapp2.1\StreamsExams.deps.json
+C:\Projects\C#Advanced\Exams\StreamsExams\StreamsExams\bin\Debug\netcoreapp2.1\StreamsExams.runtimeconfig.json
+C:\Projects\C#Advanced\Exams\StreamsExams\StreamsExams\bin\Debug\netcoreapp2.1\StreamsExams.runtimeconfig.dev.json
+C:\Projects\C#Advanced\Exams\StreamsExams\StreamsExams\bin\Debug\netcoreapp2.1\StreamsExams.dll
+C:\Projects\C#Advanced\Exams\StreamsExams\StreamsExams\bin\Debug\netcoreapp2.1\StreamsExams.pdb
+C:\Projects\C#Advanced\Exams\StreamsExams\StreamsExams\obj\Debug\netcoreapp2.1\StreamsExams.csprojAssemblyReference.cache
+C:\Projects\C#Advanced\Exams\StreamsExams\StreamsExams\obj\Debug\netcoreapp2.1\StreamsExams.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Exams\StreamsExams\StreamsExams\obj\Debug\netcoreapp2.1\StreamsExams.AssemblyInfoInputs.cache
+C:\Projects\C#Advanced\Exams\StreamsExams\StreamsExams\obj\Debug\netcoreapp2.1\StreamsExams.AssemblyInfo.cs
+C:\Projects\C#Advanced\Exams\StreamsExams\StreamsExams\obj\Debug\netcoreapp2.1\StreamsExams.dll
+C:\Projects\C#Advanced\Exams\StreamsExams\StreamsExams\obj\Debug\netcoreapp2.1\StreamsExams.pdb

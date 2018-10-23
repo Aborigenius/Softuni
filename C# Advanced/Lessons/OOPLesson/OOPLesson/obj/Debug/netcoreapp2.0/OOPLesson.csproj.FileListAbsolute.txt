@@ -1,0 +1,11 @@
+C:\Projects\C#Advanced\Lessons\OOPLesson\OOPLesson\bin\Debug\netcoreapp2.0\OOPLesson.deps.json
+C:\Projects\C#Advanced\Lessons\OOPLesson\OOPLesson\bin\Debug\netcoreapp2.0\OOPLesson.runtimeconfig.json
+C:\Projects\C#Advanced\Lessons\OOPLesson\OOPLesson\bin\Debug\netcoreapp2.0\OOPLesson.runtimeconfig.dev.json
+C:\Projects\C#Advanced\Lessons\OOPLesson\OOPLesson\bin\Debug\netcoreapp2.0\OOPLesson.dll
+C:\Projects\C#Advanced\Lessons\OOPLesson\OOPLesson\bin\Debug\netcoreapp2.0\OOPLesson.pdb
+C:\Projects\C#Advanced\Lessons\OOPLesson\OOPLesson\obj\Debug\netcoreapp2.0\OOPLesson.csprojAssemblyReference.cache
+C:\Projects\C#Advanced\Lessons\OOPLesson\OOPLesson\obj\Debug\netcoreapp2.0\OOPLesson.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Lessons\OOPLesson\OOPLesson\obj\Debug\netcoreapp2.0\OOPLesson.AssemblyInfoInputs.cache
+C:\Projects\C#Advanced\Lessons\OOPLesson\OOPLesson\obj\Debug\netcoreapp2.0\OOPLesson.AssemblyInfo.cs
+C:\Projects\C#Advanced\Lessons\OOPLesson\OOPLesson\obj\Debug\netcoreapp2.0\OOPLesson.dll
+C:\Projects\C#Advanced\Lessons\OOPLesson\OOPLesson\obj\Debug\netcoreapp2.0\OOPLesson.pdb

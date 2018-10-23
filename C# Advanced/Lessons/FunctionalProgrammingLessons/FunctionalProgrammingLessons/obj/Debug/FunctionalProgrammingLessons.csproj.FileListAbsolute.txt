@@ -1,0 +1,7 @@
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\FunctionalProgrammingLessons\obj\Debug\FunctionalProgrammingLessons.csprojAssemblyReference.cache
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\FunctionalProgrammingLessons\obj\Debug\FunctionalProgrammingLessons.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\FunctionalProgrammingLessons\bin\Debug\FunctionalProgrammingLessons.exe.config
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\FunctionalProgrammingLessons\bin\Debug\FunctionalProgrammingLessons.exe
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\FunctionalProgrammingLessons\bin\Debug\FunctionalProgrammingLessons.pdb
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\FunctionalProgrammingLessons\obj\Debug\FunctionalProgrammingLessons.exe
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\FunctionalProgrammingLessons\obj\Debug\FunctionalProgrammingLessons.pdb

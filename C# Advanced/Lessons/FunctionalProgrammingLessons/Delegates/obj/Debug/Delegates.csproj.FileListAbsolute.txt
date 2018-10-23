@@ -1,0 +1,7 @@
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\Delegates\bin\Debug\Delegates.exe.config
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\Delegates\bin\Debug\Delegates.exe
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\Delegates\bin\Debug\Delegates.pdb
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\Delegates\obj\Debug\Delegates.exe
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\Delegates\obj\Debug\Delegates.pdb

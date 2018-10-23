@@ -1,0 +1,7 @@
+C:\Projects\C#Advanced\Exams\StreamsExams\ZippingSlicedFiles\bin\Debug\ZippingSlicedFiles.exe.config
+C:\Projects\C#Advanced\Exams\StreamsExams\ZippingSlicedFiles\bin\Debug\ZippingSlicedFiles.exe
+C:\Projects\C#Advanced\Exams\StreamsExams\ZippingSlicedFiles\bin\Debug\ZippingSlicedFiles.pdb
+C:\Projects\C#Advanced\Exams\StreamsExams\ZippingSlicedFiles\obj\Debug\ZippingSlicedFiles.csprojAssemblyReference.cache
+C:\Projects\C#Advanced\Exams\StreamsExams\ZippingSlicedFiles\obj\Debug\ZippingSlicedFiles.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Exams\StreamsExams\ZippingSlicedFiles\obj\Debug\ZippingSlicedFiles.exe
+C:\Projects\C#Advanced\Exams\StreamsExams\ZippingSlicedFiles\obj\Debug\ZippingSlicedFiles.pdb

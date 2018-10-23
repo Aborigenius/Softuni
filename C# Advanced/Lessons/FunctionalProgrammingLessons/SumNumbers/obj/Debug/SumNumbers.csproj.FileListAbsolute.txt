@@ -1,0 +1,7 @@
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\SumNumbers\bin\Debug\SumNumbers.exe.config
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\SumNumbers\bin\Debug\SumNumbers.exe
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\SumNumbers\bin\Debug\SumNumbers.pdb
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\SumNumbers\obj\Debug\SumNumbers.csprojAssemblyReference.cache
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\SumNumbers\obj\Debug\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\SumNumbers\obj\Debug\SumNumbers.exe
+C:\Projects\C#Advanced\Lessons\FunctionalProgrammingLessons\SumNumbers\obj\Debug\SumNumbers.pdb
