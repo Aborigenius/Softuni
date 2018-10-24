@@ -1,0 +1,11 @@
+C:\Projects\Softuni\C# Advanced\Exams\CarSalesman\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.deps.json
+C:\Projects\Softuni\C# Advanced\Exams\CarSalesman\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.runtimeconfig.json
+C:\Projects\Softuni\C# Advanced\Exams\CarSalesman\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.runtimeconfig.dev.json
+C:\Projects\Softuni\C# Advanced\Exams\CarSalesman\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.dll
+C:\Projects\Softuni\C# Advanced\Exams\CarSalesman\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.pdb
+C:\Projects\Softuni\C# Advanced\Exams\CarSalesman\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.csprojAssemblyReference.cache
+C:\Projects\Softuni\C# Advanced\Exams\CarSalesman\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.csproj.CoreCompileInputs.cache
+C:\Projects\Softuni\C# Advanced\Exams\CarSalesman\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.AssemblyInfoInputs.cache
+C:\Projects\Softuni\C# Advanced\Exams\CarSalesman\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.AssemblyInfo.cs
+C:\Projects\Softuni\C# Advanced\Exams\CarSalesman\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.dll
+C:\Projects\Softuni\C# Advanced\Exams\CarSalesman\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.pdb
