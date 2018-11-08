@@ -1,0 +1,11 @@
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\Hotel\bin\Debug\netcoreapp2.1\Hotel.deps.json
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\Hotel\bin\Debug\netcoreapp2.1\Hotel.runtimeconfig.json
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\Hotel\bin\Debug\netcoreapp2.1\Hotel.runtimeconfig.dev.json
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\Hotel\bin\Debug\netcoreapp2.1\Hotel.dll
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\Hotel\bin\Debug\netcoreapp2.1\Hotel.pdb
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\Hotel\obj\Debug\netcoreapp2.1\Hotel.csprojAssemblyReference.cache
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\Hotel\obj\Debug\netcoreapp2.1\Hotel.csproj.CoreCompileInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\Hotel\obj\Debug\netcoreapp2.1\Hotel.AssemblyInfoInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\Hotel\obj\Debug\netcoreapp2.1\Hotel.AssemblyInfo.cs
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\Hotel\obj\Debug\netcoreapp2.1\Hotel.dll
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\Hotel\obj\Debug\netcoreapp2.1\Hotel.pdb

@@ -1,0 +1,11 @@
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.deps.json
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.runtimeconfig.json
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.runtimeconfig.dev.json
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.dll
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\PointInRectangle\bin\Debug\netcoreapp2.0\PointInRectangle.pdb
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.csprojAssemblyReference.cache
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.csproj.CoreCompileInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.AssemblyInfoInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.AssemblyInfo.cs
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.dll
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\PointInRectangle\obj\Debug\netcoreapp2.0\PointInRectangle.pdb

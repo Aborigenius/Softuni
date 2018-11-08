@@ -1,0 +1,11 @@
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\WorkingWithAbstractions\bin\Debug\netcoreapp2.1\WorkingWithAbstractions.deps.json
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\WorkingWithAbstractions\bin\Debug\netcoreapp2.1\WorkingWithAbstractions.runtimeconfig.json
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\WorkingWithAbstractions\bin\Debug\netcoreapp2.1\WorkingWithAbstractions.runtimeconfig.dev.json
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\WorkingWithAbstractions\bin\Debug\netcoreapp2.1\WorkingWithAbstractions.dll
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\WorkingWithAbstractions\bin\Debug\netcoreapp2.1\WorkingWithAbstractions.pdb
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\WorkingWithAbstractions\obj\Debug\netcoreapp2.1\WorkingWithAbstractions.csprojAssemblyReference.cache
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\WorkingWithAbstractions\obj\Debug\netcoreapp2.1\WorkingWithAbstractions.csproj.CoreCompileInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\WorkingWithAbstractions\obj\Debug\netcoreapp2.1\WorkingWithAbstractions.AssemblyInfoInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\WorkingWithAbstractions\obj\Debug\netcoreapp2.1\WorkingWithAbstractions.AssemblyInfo.cs
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\WorkingWithAbstractions\obj\Debug\netcoreapp2.1\WorkingWithAbstractions.dll
+C:\Projects\Softuni\C# Advanced\Lessons\WorkingWithAbstractions\WorkingWithAbstractions\obj\Debug\netcoreapp2.1\WorkingWithAbstractions.pdb
