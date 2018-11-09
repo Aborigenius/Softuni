@@ -1,0 +1,11 @@
+C:\Projects\C#Advanced\Exams\InheritanceEx\InheritanceEx\bin\Debug\netcoreapp2.1\InheritanceEx.deps.json
+C:\Projects\C#Advanced\Exams\InheritanceEx\InheritanceEx\bin\Debug\netcoreapp2.1\InheritanceEx.runtimeconfig.json
+C:\Projects\C#Advanced\Exams\InheritanceEx\InheritanceEx\bin\Debug\netcoreapp2.1\InheritanceEx.runtimeconfig.dev.json
+C:\Projects\C#Advanced\Exams\InheritanceEx\InheritanceEx\bin\Debug\netcoreapp2.1\InheritanceEx.dll
+C:\Projects\C#Advanced\Exams\InheritanceEx\InheritanceEx\bin\Debug\netcoreapp2.1\InheritanceEx.pdb
+C:\Projects\C#Advanced\Exams\InheritanceEx\InheritanceEx\obj\Debug\netcoreapp2.1\InheritanceEx.csprojAssemblyReference.cache
+C:\Projects\C#Advanced\Exams\InheritanceEx\InheritanceEx\obj\Debug\netcoreapp2.1\InheritanceEx.csproj.CoreCompileInputs.cache
+C:\Projects\C#Advanced\Exams\InheritanceEx\InheritanceEx\obj\Debug\netcoreapp2.1\InheritanceEx.AssemblyInfoInputs.cache
+C:\Projects\C#Advanced\Exams\InheritanceEx\InheritanceEx\obj\Debug\netcoreapp2.1\InheritanceEx.AssemblyInfo.cs
+C:\Projects\C#Advanced\Exams\InheritanceEx\InheritanceEx\obj\Debug\netcoreapp2.1\InheritanceEx.dll
+C:\Projects\C#Advanced\Exams\InheritanceEx\InheritanceEx\obj\Debug\netcoreapp2.1\InheritanceEx.pdb
