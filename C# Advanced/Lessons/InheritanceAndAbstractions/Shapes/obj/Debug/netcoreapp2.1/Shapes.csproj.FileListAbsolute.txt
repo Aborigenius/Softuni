@@ -1,0 +1,10 @@
+C:\Projects\Softuni\C# Advanced\Lessons\InheritanceAndAbstractions\Shapes\bin\Debug\netcoreapp2.1\Shapes.deps.json
+C:\Projects\Softuni\C# Advanced\Lessons\InheritanceAndAbstractions\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.json
+C:\Projects\Softuni\C# Advanced\Lessons\InheritanceAndAbstractions\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.dev.json
+C:\Projects\Softuni\C# Advanced\Lessons\InheritanceAndAbstractions\Shapes\bin\Debug\netcoreapp2.1\Shapes.dll
+C:\Projects\Softuni\C# Advanced\Lessons\InheritanceAndAbstractions\Shapes\bin\Debug\netcoreapp2.1\Shapes.pdb
+C:\Projects\Softuni\C# Advanced\Lessons\InheritanceAndAbstractions\Shapes\obj\Debug\netcoreapp2.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\InheritanceAndAbstractions\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfoInputs.cache
+C:\Projects\Softuni\C# Advanced\Lessons\InheritanceAndAbstractions\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfo.cs
+C:\Projects\Softuni\C# Advanced\Lessons\InheritanceAndAbstractions\Shapes\obj\Debug\netcoreapp2.1\Shapes.dll
+C:\Projects\Softuni\C# Advanced\Lessons\InheritanceAndAbstractions\Shapes\obj\Debug\netcoreapp2.1\Shapes.pdb
